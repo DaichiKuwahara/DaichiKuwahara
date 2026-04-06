@@ -1,5 +1,5 @@
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,js,ts,react,next,nest,tailwind,python,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,js,ts,tailwind,react,next,nest,python,docker" />
 
 <!--
 **DaichiKuwahara/DaichiKuwahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
