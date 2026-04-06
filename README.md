@@ -1,3 +1,6 @@
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,nest,python,docker" />
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=DaichiKuwahara)
 
 <!--
